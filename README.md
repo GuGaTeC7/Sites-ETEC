@@ -1,2 +1,2 @@
 # Sites ETEC
- Sites que desenvolvi ao longo do meu curso ETEC
+ Sites que desenvolvi ao longo do meu curso na ETEC
