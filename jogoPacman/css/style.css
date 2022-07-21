@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -23,9 +24,11 @@
 }
 
 .dica {
-    margin-top: 11px;
+    margin-top: 15px;
+    padding-top: 7px;
     font-family: 'Press Start 2P', cursive;
     -webkit-font-smoothing : none;
+    font-size: 1.3rem;
 }
 
 @keyframes fantasma-animation{
