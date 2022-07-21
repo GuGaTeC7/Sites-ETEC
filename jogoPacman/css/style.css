@@ -23,7 +23,9 @@
 }
 
 .dica {
-    
+    font-family: 'Courier', monospace;
+    font-smooth: never;
+    -webkit-font-smoothing : none;
 }
 
 @keyframes fantasma-animation{
