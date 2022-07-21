@@ -23,6 +23,7 @@
 }
 
 .dica {
+    margin-top: 11px;
     font-family: 'Courier', monospace;
     -webkit-font-smoothing : none;
 }
