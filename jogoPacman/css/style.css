@@ -22,6 +22,10 @@
     animation: fantasma-animation 1.5s infinite linear;
 }
 
+.dica {
+    
+}
+
 @keyframes fantasma-animation{
     from{
         right: -80px;
